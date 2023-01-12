@@ -1,18 +1,27 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+<img src="Documentation/screen.png" width="200">
 
-# Magic 8 Ball
+# Magic 8 Ball 🎱
 
-## Our Goal
+## My Goal 🎯
 
-The objective of this challenge is to apply the skills you learned in the Dicee tutorial and get you making an app with functionality all by yourself. There’s no new concepts here. But you’re flyin’ solo this time! Most of the programming skills are gained in the challenges rather than the tutorials. It’s when you’re using your new-found programming skills to bend the app to your will that you’re truly levelling up as a developer.
+The objective is to practice the core programming concepts that will form the foundation of most of the apps I’ll build in the future.
 
-## What you will create
+## What I created ⚙️
 
-We’re going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in your pocket, you’ll always have an answer to life’s many conundrums!
+I'am going to make a Magic 8 Ball app. You can ask the app to make all your hard decisions! With this app in my pocket, I will always have an answer to life’s many conundrums!
 
+## What I learned 📝
 
+* How to clone an existing Xcode project from GitHub.
+* Create an app with behaviour and functionality.
+* Create links between the Interface Builder files and code using IBActions and IBOutlets.
+* Get familiar with the Xcode code editor.
+  * Learn to use comments to annotate code.
+* Understand and use Swift constants and variables.
+* Understand and use collection types such as Swift arrays.
+* Test and debug your app with the Xcode console.
+* Learn about randomisation and how to generate random numbers in Swift.
 
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+>No Retreat, No Surrender!!!
 
-![End Banner](Documentation/readme-end-banner.png)
 
